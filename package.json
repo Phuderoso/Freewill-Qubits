@@ -1,0 +1,24 @@
+{
+  "name": "freewill-qubits",
+  "version": "1.0.0",
+  "description": "Freewill sustainer/expansioner Tool by Grok TGPT - Wavefunction",
+  "main": "benchmark_dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phuderoso/Freewill-Qubits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Phuderoso/Freewill-Qubits/issues"
+  },
+  "homepage": "https://github.com/Phuderoso/Freewill-Qubits#readme",
+  "dependencies": {
+    "happy-dom": "^20.1.0"
+  }
+}
